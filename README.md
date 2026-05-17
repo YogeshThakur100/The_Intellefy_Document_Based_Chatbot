@@ -180,7 +180,3 @@ flowchart LR
 
 ---
 
-## More detail
-
-- Backend-only notes: [Backend/README.md](Backend/README.md)
-- Frontend-only notes: [Frontend/README.md](Frontend/README.md)
