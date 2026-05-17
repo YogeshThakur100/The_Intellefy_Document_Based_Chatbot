@@ -11,7 +11,7 @@ A full-stack document Q&A app: upload PDF or TXT files, store them in a vector d
 
 ## Prerequisites
 
-- Python 3.10+
+- Python 3.13.3
 - [OpenAI API key](https://platform.openai.com/api-keys)
 
 ---
